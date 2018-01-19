@@ -444,6 +444,17 @@ header.button {
     
 }
 
+.label {
+    
+    background-color: #f7f7f7;
+    padding: 10px 5px;
+    width: 110px;
+    margin: auto;
+    border-radius: 9px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 .illustration {
   width: 100%;
 }
@@ -488,7 +499,7 @@ header.button {
     box-sizing: border-box;
     height: auto;
     display: inline-block;
-    overflow: scroll;
+    overflow: hidden;
     float: none;
 
 
@@ -554,7 +565,7 @@ header.button {
     box-sizing: border-box;
     height: auto;
     display: inline-block;
-    overflow: scroll;
+    overflow: hidden;
     float: none;
 
 
@@ -744,7 +755,7 @@ footer {
     box-sizing: border-box;
     height: auto;
     display: inline-block;
-    overflow: scroll;
+    overflow: auto;
     float: none;
     padding-right: 16px;
     padding-left: 40px;
@@ -781,7 +792,7 @@ footer {
     width: 50%;
     box-sizing: border-box;
     display: inline-block;
-    overflow: scroll;
+    overflow: auto;
     float: none;
     padding-right: 16px;
     padding-left: 16px;
@@ -1133,7 +1144,7 @@ header.header-bk {
     box-sizing: border-box;
     height: auto;
     display: inline-block;
-    overflow: scroll;
+    overflow: hidden;
     float: none;
 
 
@@ -1251,7 +1262,7 @@ header.header-bk {
     width: 100%;
     box-sizing: border-box;
     
-}
+}   
 
 
 .results {
@@ -1260,7 +1271,7 @@ header.header-bk {
     box-sizing: border-box;
     height: auto;
     display: inline-block;
-    overflow: scroll;
+    overflow: hidden;
     float: none;
 
 
@@ -1287,7 +1298,7 @@ header.header-bk {
     /*Formularios*/
     
     .collaborate {
-    overflow: hidden;
+    overflow: auto;
     background-color: #FFf;
     height: auto;
     box-sizing: border-box;
@@ -1308,7 +1319,7 @@ header.header-bk {
     box-sizing: border-box;
     height: auto;
     display: inline-block;
-    overflow: scroll;
+    overflow: auto;
     float: none;
     padding-right: 16px;
     padding-left: 16px;
@@ -1564,7 +1575,7 @@ header.header-bk {
     box-sizing: border-box;
     height: auto;
     display: inline-block;
-    overflow: scroll;
+    overflow: hidden;
     float: none;
 
 
